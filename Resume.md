@@ -50,10 +50,6 @@
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
-* 半导体相关
-1. 熟悉**明场设备**的硬件原理，包括光机子系统和采图子系统，了解BFI的**光学原理**
-2. 熟悉 Wafer 的常用概念包括 Die Corner、Die Pitch、Wafer坐标系和 Swath 等
-
 * 编程语言
 1. 熟练掌握C/C++；熟悉C++11/14/17标准；熟练掌握 **STL** 容器和算法
 
